@@ -1,8 +1,8 @@
 --- #YAML:1.0
 name:                Compress-LZF_PP
-version:             0.32
-abstract:            ~
-license:             ~
+version:             0.33
+abstract:            A pure-Perl LZF decompressor
+license:             perl
 author:              
     - Leon Brocard <acme@astray.com>
 generated_by:        ExtUtils::MakeMaker version 6.44
